@@ -57,3 +57,17 @@ tr:hover {
     margin-top: 15px;
     cursor: pointer;
 }
+
+.update-user-container {
+    padding: 25px;
+    text-align: center;
+}
+
+.update-user-container label {
+    display: block;
+}
+
+.btn-save {
+    margin-top: 15px;
+    cursor: pointer;
+}
