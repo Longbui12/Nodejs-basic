@@ -43,3 +43,7 @@ body {
     margin-bottom: 15px;
     cursor: pointer;
 }
+
+hr {
+    border-top: 3px solid #ef1111 !important;
+}
